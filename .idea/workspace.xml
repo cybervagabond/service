@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GOROOT" path="/usr/lib/go" />
+  <component name="ProjectId" id="1WLi81JgZ8IS4GpipxikCiFtxQx" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build service/cmd/service" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="service" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cmd/service/main.go" />
+      <package value="service/cmd/service" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build service/cmd/service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="288" key="GridCell.Tab.0.bottom" timestamp="1578935148570">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1578935148570" />
+    <state width="1874" height="288" key="GridCell.Tab.0.center" timestamp="1578935148568">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="288" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1578935148568" />
+    <state width="1874" height="288" key="GridCell.Tab.0.left" timestamp="1578935148567">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="288" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1578935148567" />
+    <state width="1874" height="288" key="GridCell.Tab.0.right" timestamp="1578935148569">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="288" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1578935148569" />
+    <state x="637" y="248" width="645" height="538" key="find.popup" timestamp="1578935280523">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="637" y="248" width="645" height="538" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1578935280523" />
+  </component>
+</project>
